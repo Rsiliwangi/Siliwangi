@@ -1,0 +1,6 @@
+search_string = https://www.youtube.com/watch?=9&v=SK5We5VQ1Bk%3Dplay
+min_watch = 10
+max_watch = 45
+wait_after = 15
+views = 100
+multicore = False
